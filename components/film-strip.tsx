@@ -18,7 +18,7 @@ export function FilmStrip() {
     "/film2.JPG",
     "/film3.JPG",
     "/film4.JPG",
-    "/film5.JPG",
+    "/film5.jpg",
     "/film6.JPG",
     "/film7.JPG",
     "/film8.JPG",
