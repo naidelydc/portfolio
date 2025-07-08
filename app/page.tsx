@@ -445,7 +445,7 @@ I’m passionate about uncovering insights, building simulations, and turning co
       {/* Global scale and black background */}
       <style jsx global>{`
         html {
-          zoom: 0.9;
+          zoom: 0.85;
           background-color: #000;
         }
       `}</style>
